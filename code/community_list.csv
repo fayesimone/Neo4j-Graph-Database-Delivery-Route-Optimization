@@ -1,0 +1,115 @@
+,name,community
+0,blue Montgomery Street,0
+1,blue Powell Street,0
+2,green Montgomery Street,0
+3,green Powell Street,0
+4,red Montgomery Street,0
+5,red Powell Street,0
+6,yellow Montgomery Street,0
+7,yellow Powell Street,0
+8,orange El Cerrito Plaza,2
+9,orange El Cerrito del Norte,2
+10,orange North Berkeley,2
+11,orange Richmond,2
+12,red El Cerrito Plaza,2
+13,red El Cerrito del Norte,2
+14,red North Berkeley,2
+15,red Richmond,2
+16,yellow Antioch,8
+17,yellow Concord,8
+18,yellow North Concord,8
+19,yellow Pittsburg,8
+20,yellow Pittsburg Center,8
+21,yellow Pleasant Hill,8
+22,red Millbrae,17
+23,red SFO,17
+24,red San Bruno,17
+25,red South San Francisco,17
+26,yellow SFO,17
+27,yellow San Bruno,17
+28,yellow South San Francisco,17
+29,blue Bay Fair,33
+30,blue Castro Valley,33
+31,blue Dublin,33
+32,blue West Dublin,33
+39,orange 19th Street,43
+40,orange Ashby,43
+41,orange Downtown Berkeley,43
+42,orange MacArthur,43
+43,red 19th Street,43
+44,red Ashby,43
+45,red Downtown Berkeley,43
+46,red MacArthur,43
+47,yellow 19th Street,43
+48,yellow Lafayette,43
+49,yellow MacArthur,43
+50,yellow Orinda,43
+51,yellow Rockridge,43
+52,yellow Walnut Creek,43
+147,blue 16th Street Mission,165
+148,blue Civic Center,165
+149,green 16th Street Mission,165
+150,green Civic Center,165
+151,red 16th Street Mission,165
+152,red Civic Center,165
+153,yellow 16th Street Mission,165
+154,yellow Civic Center,165
+155,blue Balboa Park,173
+156,blue Daly City,173
+157,green Balboa Park,173
+158,green Daly City,173
+159,red Balboa Park,173
+160,red Colma,173
+161,red Daly City,173
+162,yellow Balboa Park,173
+163,yellow Colma,173
+164,yellow Daly City,173
+165,blue Embarcadero,188
+166,blue West Oakland,188
+167,green Embarcadero,188
+168,green West Oakland,188
+169,orange 12th Street,188
+170,red 12th Street,188
+171,red Embarcadero,188
+172,red West Oakland,188
+173,yellow 12th Street,188
+174,yellow Embarcadero,188
+175,yellow West Oakland,188
+176,blue 24th Street Mission,196
+177,blue Glen Park,196
+178,green 24th Street Mission,196
+179,green Glen Park,196
+180,red 24th Street Mission,196
+181,red Glen Park,196
+182,yellow 24th Street Mission,196
+183,yellow Glen Park,196
+184,blue Coliseum,204
+185,blue Fruitvale,204
+186,blue Lake Merritt,204
+187,blue San Leandro,204
+188,gray Coliseum,204
+189,gray OAK,204
+190,green Coliseum,204
+191,green Fruitvale,204
+192,green Lake Merritt,204
+193,green San Leandro,204
+194,orange Coliseum,204
+195,orange Fruitvale,204
+196,orange Lake Merritt,204
+197,orange San Leandro,204
+198,green Bay Fair,211
+199,green Berryessa,211
+200,green Fremont,211
+201,green Hayward,211
+202,green Milpitas,211
+203,green South Hayward,211
+204,green Union City,211
+205,green Warm Springs,211
+206,orange Bay Fair,211
+207,orange Berryessa,211
+208,orange Fremont,211
+209,orange Hayward,211
+210,orange Milpitas,211
+211,orange South Hayward,211
+212,orange Union City,211
+213,orange Warm Springs,211
