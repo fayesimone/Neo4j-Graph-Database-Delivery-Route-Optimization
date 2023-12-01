@@ -1,115 +1,52 @@
-,name,community
-0,blue Montgomery Street,0
-1,blue Powell Street,0
-2,green Montgomery Street,0
-3,green Powell Street,0
-4,red Montgomery Street,0
-5,red Powell Street,0
-6,yellow Montgomery Street,0
-7,yellow Powell Street,0
-8,orange El Cerrito Plaza,2
-9,orange El Cerrito del Norte,2
-10,orange North Berkeley,2
-11,orange Richmond,2
-12,red El Cerrito Plaza,2
-13,red El Cerrito del Norte,2
-14,red North Berkeley,2
-15,red Richmond,2
-16,yellow Antioch,8
-17,yellow Concord,8
-18,yellow North Concord,8
-19,yellow Pittsburg,8
-20,yellow Pittsburg Center,8
-21,yellow Pleasant Hill,8
-22,red Millbrae,17
-23,red SFO,17
-24,red San Bruno,17
-25,red South San Francisco,17
-26,yellow SFO,17
-27,yellow San Bruno,17
-28,yellow South San Francisco,17
-29,blue Bay Fair,33
-30,blue Castro Valley,33
-31,blue Dublin,33
-32,blue West Dublin,33
-39,orange 19th Street,43
-40,orange Ashby,43
-41,orange Downtown Berkeley,43
-42,orange MacArthur,43
-43,red 19th Street,43
-44,red Ashby,43
-45,red Downtown Berkeley,43
-46,red MacArthur,43
-47,yellow 19th Street,43
-48,yellow Lafayette,43
-49,yellow MacArthur,43
-50,yellow Orinda,43
-51,yellow Rockridge,43
-52,yellow Walnut Creek,43
-147,blue 16th Street Mission,165
-148,blue Civic Center,165
-149,green 16th Street Mission,165
-150,green Civic Center,165
-151,red 16th Street Mission,165
-152,red Civic Center,165
-153,yellow 16th Street Mission,165
-154,yellow Civic Center,165
-155,blue Balboa Park,173
-156,blue Daly City,173
-157,green Balboa Park,173
-158,green Daly City,173
-159,red Balboa Park,173
-160,red Colma,173
-161,red Daly City,173
-162,yellow Balboa Park,173
-163,yellow Colma,173
-164,yellow Daly City,173
-165,blue Embarcadero,188
-166,blue West Oakland,188
-167,green Embarcadero,188
-168,green West Oakland,188
-169,orange 12th Street,188
-170,red 12th Street,188
-171,red Embarcadero,188
-172,red West Oakland,188
-173,yellow 12th Street,188
-174,yellow Embarcadero,188
-175,yellow West Oakland,188
-176,blue 24th Street Mission,196
-177,blue Glen Park,196
-178,green 24th Street Mission,196
-179,green Glen Park,196
-180,red 24th Street Mission,196
-181,red Glen Park,196
-182,yellow 24th Street Mission,196
-183,yellow Glen Park,196
-184,blue Coliseum,204
-185,blue Fruitvale,204
-186,blue Lake Merritt,204
-187,blue San Leandro,204
-188,gray Coliseum,204
-189,gray OAK,204
-190,green Coliseum,204
-191,green Fruitvale,204
-192,green Lake Merritt,204
-193,green San Leandro,204
-194,orange Coliseum,204
-195,orange Fruitvale,204
-196,orange Lake Merritt,204
-197,orange San Leandro,204
-198,green Bay Fair,211
-199,green Berryessa,211
-200,green Fremont,211
-201,green Hayward,211
-202,green Milpitas,211
-203,green South Hayward,211
-204,green Union City,211
-205,green Warm Springs,211
-206,orange Bay Fair,211
-207,orange Berryessa,211
-208,orange Fremont,211
-209,orange Hayward,211
-210,orange Milpitas,211
-211,orange South Hayward,211
-212,orange Union City,211
-213,orange Warm Springs,211
+,community,station,latitude,longitude
+0,0,Montgomery Street,37.789355,-122.401942
+1,0,Powell Street,37.784,-122.408
+8,2,El Cerrito Plaza,37.902694,-122.298968
+9,2,El Cerrito del Norte,37.925183,-122.316939
+10,2,North Berkeley,37.873915,-122.282552
+11,2,Richmond,37.936811,-122.353095
+16,8,Antioch,37.996281,-121.783404
+17,8,Concord,37.973745,-122.029127
+18,8,North Concord,38.003273,-122.024599
+19,8,Pittsburg,38.018869,-121.944208
+20,8,Pittsburg Center,38.018227,-121.890178
+21,8,Pleasant Hill,37.928399,-122.055992
+22,17,Millbrae,37.6003,-122.3867
+23,17,SFO,37.6164,-122.391
+24,17,San Bruno,37.6383,-122.4165
+25,17,South San Francisco,37.664264,-122.444043
+29,33,Bay Fair,37.697,-122.1265
+30,33,Castro Valley,37.690748,-122.075679
+31,33,Dublin,37.701663,-121.899232
+32,33,West Dublin,37.699726,-121.928273
+33,43,19th Street,37.807869,-122.26898
+34,43,Ashby,37.853068,-122.269957
+35,43,Downtown Berkeley,37.869799,-122.268197
+36,43,MacArthur,37.82826,-122.267275
+42,43,Lafayette,37.893186,-122.124614
+44,43,Orinda,37.878427,-122.18374
+45,43,Rockridge,37.844452,-122.252083
+46,43,Walnut Creek,37.905724,-122.067332
+47,165,16th Street Mission,37.764847,-122.420042
+48,165,Civic Center,37.779861,-122.413498
+55,173,Balboa Park,37.721667,-122.4475
+56,173,Daly City,37.706224,-122.468934
+60,173,Colma,37.684722,-122.466111
+65,188,Embarcadero,37.793056,-122.397222
+66,188,West Oakland,37.8049,-122.2951
+69,188,12th Street,37.803608,-122.272006
+76,196,24th Street Mission,37.752,-122.4187
+77,196,Glen Park,37.733118,-122.433808
+84,204,Coliseum,37.753611,-122.196944
+85,204,Fruitvale,37.7748,-122.2241
+86,204,Lake Merritt,37.797773,-122.266588
+87,204,San Leandro,37.721764,-122.160684
+89,204,OAK,37.7132,-122.2122
+98,211,Bay Fair,37.697,-122.1265
+99,211,Berryessa,37.368361,-121.874655
+100,211,Fremont,37.557489,-121.97662
+101,211,Hayward,37.6697,-122.087
+102,211,Milpitas,37.410278,-121.891111
+103,211,South Hayward,37.634362,-122.057172
+104,211,Union City,37.590746,-122.017282
+105,211,Warm Springs,37.503,-121.94
